@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DarshanIITB
-- 👀 I’m interested in Aircraft Simulations
-- 🌱 I’m currently learning Python for simulations
-- 💞️ I’m looking to collaborate on my future project - "Jet Aircraft Simulations"
+- 🛩️I'm doing a major in Aerospace Engineering and a minor in 🧑‍💻Computer Science and Engineering.
 - 📫 You can reach me at darshankr927@gmail.com
 
 <!---
